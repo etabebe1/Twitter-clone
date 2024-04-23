@@ -14,7 +14,7 @@ function Widgets() {
 				<h2>What's happening</h2>
 				<TwitterTimelineEmbed
 					sourceType='profile'
-					screenName='yusufisawi'
+					screenName='jeremiah'
 					options={{ height: 400 }}
 				/>
 				<TwitterTweetEmbed tweetId={"1563162686049120258"} />

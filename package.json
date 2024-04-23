@@ -9,16 +9,12 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/YusufLisawi/Twitter-clone.git"
+    "type": "git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/YusufLisawi/Twitter-clone/issues"
-  },
-  "homepage": "https://github.com/YusufLisawi/Twitter-clone#readme",
+  "bugs": {},
   "devDependencies": {
     "concurrently": "^7.6.0"
   }

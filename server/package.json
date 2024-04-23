@@ -8,17 +8,13 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/YusufLisawi/Twitter-clone.git"
+    "type": "git"
   },
-  "author": "yusufisawi",
+  "author": "Jeremiah T.A",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/YusufLisawi/Twitter-clone/issues"
-  },
-  "homepage": "https://github.com/YusufLisawi/Twitter-clone#readme",
+  "bugs": {},
   "dependencies": {
-    "bcrypt": "^5.1.0",
+    "bcrypt": "^5.1.1",
     "colors": "^1.4.0",
     "cors": "^2.8.5",
     "dotenv": "^16.0.3",
